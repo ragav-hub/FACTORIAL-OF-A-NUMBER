@@ -27,12 +27,14 @@ APPARATUS REQUIRED: Personal computer with Keil software
 
 • End
 
+
 **FLOW CHART:**
 
 
 <img width="261" height="308" alt="image" src="https://github.com/user-attachments/assets/bffe89f6-3ba9-4294-b817-8b545f680e66" />
 
 **Program:**
+
 ```
 ORG 0000H   
 MOV A,#04H  
@@ -49,6 +51,7 @@ ACALL FACTORIAL
 THICK: RET  
 THIN:  
 END
+
 ```
 **Output:**  
 
@@ -69,8 +72,5 @@ END
 <br>
 <br>
 <br>
-
-
 **Result:**
-
 Thus the factorial of a number using 8051 keil was calculated and shown the output.
