@@ -65,12 +65,8 @@ END
 **Manual Calculations:**  
 
 ![WhatsApp Image 2025-10-24 at 08 53 21](https://github.com/user-attachments/assets/216c59dd-177c-40d8-b7a4-724a664ef903)
-
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 **Result:**
+
 Thus the factorial of a number using 8051 keil was calculated and shown the output.
